@@ -1,0 +1,8 @@
+flask
+flask-bootstrap
+flask-wtf
+flask-testing
+blinker
+firebase-admin
+flask-login
+#Se usa esta version pues es con la que trabaja bien los temas vistos en el curso
